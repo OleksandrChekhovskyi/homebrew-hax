@@ -1,8 +1,8 @@
 class Hax < Formula
   desc "Minimalist, terminal-native coding agent written in C"
   homepage "https://usehax.dev"
-  url "https://github.com/OleksandrChekhovskyi/hax/releases/download/v0.3.0/hax-0.3.0.tar.xz"
-  sha256 "5fa25dcb71bb462436b33f0272346745973c0c33fc614ca8683627e97432b6aa"
+  url "https://github.com/OleksandrChekhovskyi/hax/releases/download/v0.4.0/hax-0.4.0.tar.xz"
+  sha256 "449aea6931b85347d2aa6e333bd4b93af8f1b6fafca012e370a3da8a2ab23f26"
   license "MIT"
   head "https://github.com/OleksandrChekhovskyi/hax.git", branch: "master"
 
